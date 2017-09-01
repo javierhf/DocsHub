@@ -1,0 +1,12 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\Salesman Agenda\RC\en-GB
+pages: 
+- 'SIMA Salesman Agenda': 'index.md'
+- 'Salesman Agenda': 'Salesman Agenda.md'
+- 'New feature': 'New feature.md'
+- 'Create Actions': 'Create Actions.md'
+- 'Follow up of offers': 'Follow up of offers.md'
+- 'Version history': 'Version history.md'
+

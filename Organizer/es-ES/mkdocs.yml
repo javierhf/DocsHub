@@ -1,0 +1,12 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\Organizer\RC\es-ES
+pages: 
+- 'SIMA Service - Inicio': 'index.md'
+- 'Organizer': 'Organizer.md'
+- 'Miniorganizador': 'Miniorganizador.md'
+- 'Panel del mecánico': 'Panel del mecanico.md'
+- 'Configuraciones': 'Configuraciones.md'
+- 'Versiones': 'Versiones.md'
+

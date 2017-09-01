@@ -1,0 +1,17 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\First Contact\RC\es-ES
+pages: 
+- 'SIMA Sales - Inicio': 'index.md'
+- 'First Contact': 'First Contact.md'
+- 'Vender vehículos de stock o pedidos': 'Vender vehiculos de stock o pedidos.md'
+- 'Vender vehículos configurados': 'Vender vehiculos configurados.md'
+- 'Financiar un vehículo': 'Financiar un vehiculo.md'
+- 'Tasar un vehículo': 'Tasar un vehiculo.md'
+- 'Enviar una oferta': 'Enviar una oferta.md'
+- 'Completar el perfil del cliente': 'Completar el perfil del cliente.md'
+- 'Contenido multimedia': 'Contenido multimedia.md'
+- 'Leyenda de iconos y colores': 'Leyenda de iconos y colores.md'
+- 'Versiones': 'Versiones.md'
+

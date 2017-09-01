@@ -1,0 +1,10 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\EITV\RC\es-ES
+pages: 
+- 'Inicio': 'index.md'
+- 'EITV': 'EITV.md'
+- 'Nueva funcionalidad': 'Nueva funcionalidad.md'
+- 'Versiones': 'Versiones.md'
+

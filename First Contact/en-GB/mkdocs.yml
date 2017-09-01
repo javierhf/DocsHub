@@ -1,0 +1,17 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\First Contact\RC\en-GB
+pages: 
+- 'SIMA Sales - Home': 'index.md'
+- 'First Contact': 'First Contact.md'
+- 'Selling vehicles': 'Selling vehicles.md'
+- 'Selling vehicle configurations': 'Selling vehicle configurations.md'
+- 'Financing a vehicle': 'Financing a vehicle.md'
+- 'Valuation of a vehicle': 'Valuation of a vehicle.md'
+- 'Send an offer': 'Send an offer.md'
+- 'Fill in the customer profile': 'Fill in the customer profile.md'
+- 'Multimedia content': 'Multimedia content.md'
+- 'Icons and colors keycode': 'Icons and colors keycode.md'
+- 'Version history': 'Version history.md'
+

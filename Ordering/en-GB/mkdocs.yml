@@ -1,0 +1,19 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\Ordering\RC\en-GB
+pages: 
+- 'SIMA Sales - Home': 'index.md'
+- 'Ordering': 'Ordering.md'
+- 'New order': 'New order.md'
+- 'Search in orders': 'Search in orders.md'
+- 'Cancellations': 'Cancellations.md'
+- 'Deliveries': 'Deliveries.md'
+- 'Orders to arrive': 'Orders to arrive.md'
+- 'History': 'History.md'
+- 'Transfers': 'Transfers.md'
+- 'Customers': 'Customers.md'
+- 'Settings': 'Settings.md'
+- 'Subscribe me': 'Subscribe me.md'
+- 'Versions': 'Versions.md'
+
