@@ -1,9 +1,0 @@
-theme: readthedocs
-site_name: SIMA Documentation
-google_analytics: ['UA-35617728-3', 'auto']
-site_dir: E:\Papyrus\Gestor Multimedia\RC\en-GB
-pages: 
-- 'Home': 'index.md'
-- 'Multimedia manager': 'Multimedia manager.md'
-- 'Versions': 'Versions.md'
-
