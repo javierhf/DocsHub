@@ -1,0 +1,8 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\SkilderCloud\RC\es-ES
+pages: 
+- 'SkilderCloud - Inicio': 'index.md'
+- 'Trabajar con SkilderCloud': 'Trabajar con SkilderCloud.md'
+
