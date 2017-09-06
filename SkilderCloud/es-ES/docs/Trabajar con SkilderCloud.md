@@ -1,7 +1,9 @@
 
-![](Images/LogoSilderCloud_mini.png)  
+
+![](Images/LogoSilderCloud_mini.png)
+
   
----  
+
   
 # SkilderCloud    
   
@@ -11,9 +13,9 @@
 
 ![](Images/es-ES_SkilderCloud_LoginScreen.png)  
   
-## Roles de usuario SkilderCloud**  
+## Roles de usuario SkilderCloud  
   
-**MANAGER    
+**MANAGER**    
   
 Desde este rol podremos acceder al **estado actual** del taller, con todas las **órdenes** y la **fase** correspondiente.    
 
@@ -21,14 +23,14 @@ Desde este rol podremos acceder al **estado actual** del taller, con todas las *
   
 En todo momento, podremos conocer el número **total de órdenes** _En curso_, _En epera_ y _Bloqueadas_ . Además, para cada fase se nos informa sobre el **total de órdenes** en esa fase.  
   
-Las **órdenes** nos muestran el mecánico asigando, el _Número de orden_, la _matrícula_ y el _mnodelo_ del vehículo además del _Color_.    
+Las **órdenes** nos muestran el mecánico asigando, el _Número de orden_, la _matrícula_ y el _modelo_ del vehículo además del _Color_.    
   
 
 ![](Images/ic_hamburguer.png) Este icono nos permitirá, como _Manager_ acceder al tablero del taller (estado actual), en cualquier momento_ y a los informes.
 
 
   
-**MECÁNICO      
+**MECÁNICO**        
   
 Aquí se mostrará  todas las **órdenes asignadas** a nuestro mecánico así como el **detalle de la orden** seleccionada.
   
