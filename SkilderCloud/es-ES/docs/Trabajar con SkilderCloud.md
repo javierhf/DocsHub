@@ -11,7 +11,7 @@
 
 ![](Images/es-ES_SkilderCloud_LoginScreen.png)  
   
-## Roles de usuario SkilderCloud
+## Roles de usuario SkilderCloud**  
   
 **MANAGER    
   
@@ -41,3 +41,4 @@ Podremos iniciar y detener nuestro pique de tiempo en los siguientes iconos:
   
  > ![](Images/ic_TimePicker.png)  
  > ![](Images/ic_TimePicker_Stop.png)
+
