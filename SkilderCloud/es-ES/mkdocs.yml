@@ -5,4 +5,5 @@ site_dir: E:\Papyrus\SkilderCloud\RC\es-ES
 pages: 
 - 'SkilderCloud - Inicio': 'index.md'
 - 'Trabajar con SkilderCloud': 'Trabajar con SkilderCloud.md'
+- 'Gestión de órdenes': 'Gestion de ordenes.md'
 

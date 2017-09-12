@@ -1,0 +1,144 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Bienvenido a las p\u00e1ginas de la documentaci\u00f3n de usuario de \nOrganizer",
+            "title": "SIMA Service - Inicio"
+        },
+        {
+            "location": "/Organizer/",
+            "text": "ORGANIZER\n\n\nOrganizer\n gestiona nuestro taller gracias dos \u00e1reas bien diferenciadas, el \u00c1rea de notificaciones y el \u00c1rea de organizaci\u00f3n.  \n\n\n\n\nOrganizer\n nos permite gestionar los \nMec\u00e1nicos\n de nuestro taller, los \nbloques de trabajo\n y los \ntrabajos del taller\n, todo ello agrupado por d\u00edas.  \n\n\nCabecera\n\n\nSituada en la parte superior de la pantalla, nos permite:  \n\n\n\n\n\n\n Actualizar el panel de organizaci\u00f3n.\n\n\n Seleccionar la fecha de partida para organizar el taller.  \n\n\n Seleccionar cu\u00e1ntas semanas de organizaci\u00f3n se quiere ver       .  \n\n\n Visualizar \u00f3rdenes en cola.  \n\n\n Visualizar el n\u00famero de clientes en espera.  \n\n\n Visualizar las solicitudes de tiempo de los mec\u00e1nicos.\n\n\n Visualizar las \u00f3rdenes que tienen trabajos asignados a equipos para re-asignarlos a mec\u00e1nicos.  \n\n\n Trabajos sin asignar.\n\n\n Acceder a la documentaci\u00f3n de ayuda . \n\n\n\n\n\n\n\u00c1rea de trabajo\n\n\nSituada en la parte central de la pantalla, nos muestra los \nmec\u00e1nicos del taller\n, la \ndisponibilidad de los mec\u00e1nicos\n y los \nbloques de trabajo\n y trabajos para cada veh\u00edculo. Adem\u00e1s, nos facilita informaci\u00f3n sobre:  \n\n\n\n\n\n\n\u00d3rdenes: \n  \n\n\nCitas:  \n    \n\n\nAver\u00edas repetitivas:  \n   \n\n\n\n\n\n\nTambi\u00e9n podemos consultar informaci\u00f3n sobre:  \n\n\n\n\n\n\n \n Fecha \nPlanificada de recepci\u00f3n\n y fecha de \nEntrega\n del veh\u00edculo.  \n\n\n Trabajos iniciados y en los que se ha trabajado.  \n\n\nTiempo planificado para cada trabajo y bloque de trabajo.    \n\n\n\n\n\n\n El \nOrganizer\n agrupa en la orden correspondiente, y autom\u00e1ticamente, las aver\u00edas no priorizadas de una misma orden.\n\n\nY realizar las siguientes operaciones:   \n\n\n\n\n\n\nVisualizar los trabajos de una orden en el \nminiorganizador\n (clic sobre la orden).  \n\n\nAsignar un trabajo o bloque entre mec\u00e1nicos (arrastrar y soltar).    \n\n\nPriorizar los trabajos de los mec\u00e1nicos (arrastrar y soltar en vertical).  \n\n\n Partir el trabajo y modificar el tiempo planeado desde .    \n\n\n\n\n\n\n Los trabajos o bloques \nno se partir\u00e1n\n si se asignan a un mec\u00e1nico sin disponibilidad.",
+            "title": "Organizer"
+        },
+        {
+            "location": "/Organizer/#organizer",
+            "text": "Organizer  gestiona nuestro taller gracias dos \u00e1reas bien diferenciadas, el \u00c1rea de notificaciones y el \u00c1rea de organizaci\u00f3n.     Organizer  nos permite gestionar los  Mec\u00e1nicos  de nuestro taller, los  bloques de trabajo  y los  trabajos del taller , todo ello agrupado por d\u00edas.",
+            "title": "ORGANIZER"
+        },
+        {
+            "location": "/Organizer/#cabecera",
+            "text": "Situada en la parte superior de la pantalla, nos permite:       Actualizar el panel de organizaci\u00f3n.   Seleccionar la fecha de partida para organizar el taller.     Seleccionar cu\u00e1ntas semanas de organizaci\u00f3n se quiere ver       .     Visualizar \u00f3rdenes en cola.     Visualizar el n\u00famero de clientes en espera.     Visualizar las solicitudes de tiempo de los mec\u00e1nicos.   Visualizar las \u00f3rdenes que tienen trabajos asignados a equipos para re-asignarlos a mec\u00e1nicos.     Trabajos sin asignar.   Acceder a la documentaci\u00f3n de ayuda .",
+            "title": "Cabecera"
+        },
+        {
+            "location": "/Organizer/#area-de-trabajo",
+            "text": "Situada en la parte central de la pantalla, nos muestra los  mec\u00e1nicos del taller , la  disponibilidad de los mec\u00e1nicos  y los  bloques de trabajo  y trabajos para cada veh\u00edculo. Adem\u00e1s, nos facilita informaci\u00f3n sobre:      \u00d3rdenes:      Citas:         Aver\u00edas repetitivas:          Tambi\u00e9n podemos consultar informaci\u00f3n sobre:         Fecha  Planificada de recepci\u00f3n  y fecha de  Entrega  del veh\u00edculo.     Trabajos iniciados y en los que se ha trabajado.    Tiempo planificado para cada trabajo y bloque de trabajo.         El  Organizer  agrupa en la orden correspondiente, y autom\u00e1ticamente, las aver\u00edas no priorizadas de una misma orden.  Y realizar las siguientes operaciones:       Visualizar los trabajos de una orden en el  miniorganizador  (clic sobre la orden).    Asignar un trabajo o bloque entre mec\u00e1nicos (arrastrar y soltar).      Priorizar los trabajos de los mec\u00e1nicos (arrastrar y soltar en vertical).     Partir el trabajo y modificar el tiempo planeado desde .         Los trabajos o bloques  no se partir\u00e1n  si se asignan a un mec\u00e1nico sin disponibilidad.",
+            "title": "\u00c1rea de trabajo"
+        },
+        {
+            "location": "/Miniorganizador/",
+            "text": "MINIORGANIZADOR\n  \n\n\nMiniorganizador\n es accesible al hacer \nclic sobre una orden\n. Una vez abierto podemos consultar la informaci\u00f3n correspondiente a:  \n\n\n\n\n\n\n \n: Fecha \nPlanificada de recepci\u00f3n\n y fecha de \nEntrega\n del veh\u00edculo.    \n\n\n Asesor de taller.     \n\n\nDatos del veh\u00edculo. \n\n\n\n\n\n\nAdem\u00e1s, todos los \ntrabajos de la orden\n aparecen organizados \npor d\u00eda y mec\u00e1nico\n.  \n\n\n    \n\n\nDesde aqu\u00ed podremos realizar las siguientes acciones:   \n\n\n\n\n\n\nVer informaci\u00f3n extendida de un trabajo de la orden (dejar el cursor sobre la orden).  \n\n\nPlanificar un trabajo de la orden a otro d\u00eda y mec\u00e1nico (arrastrar la orden).   \n\n\n \nModificar el tiempo planificado.",
+            "title": "Miniorganizador"
+        },
+        {
+            "location": "/Panel del mecanico/",
+            "text": "PANEL DE MEC\u00c1NICO\n  \n\n\nPanel de mec\u00e1nico\n muestra los trabajos planificados y asignados para un mec\u00e1nico.  \n\n\n    \n\n\nAdem\u00e1s, visualiza junto la siguiente informaci\u00f3n:  \n\n\n\n\n\n\n \n\u00d3rdenes\n.   \n\n\n \nCitas\n.  \n\n\n\n\n\n\nTambi\u00e9n nos ofrece la posibilidad de \nsolicitar tiempo\n para un trabajo en concreto.",
+            "title": "Panel del mec\u00e1nico"
+        },
+        {
+            "location": "/Configuraciones/",
+            "text": "CONFIGURACIONES\n   \n\n\nLos productos de taller \nORGANIZER\n y \nPanel de Mec\u00e1nico\n permiten que solamente perfiles con determinados permisos trabajen con ellos.  \n\n\n  \n\n\nORGANIZER\n\n\nOrganizer\n s\u00f3lo permite trabajar a aquellos perfiles de usuario que:  \n\n\n\n\nTengan habilitado el permiso 2157.  \n\n\nNo lo tengan denegado expl\u00edcitamente.  \n\n\n\n\nPANEL DEL MEC\u00c1NICO\n\n\nPanel del mec\u00e1nico\n s\u00f3lo permite trabajar a aquellos perfiles de usuario que:  \n\n\n\n\nTengan habilitado el permiso 2066.  \n\n\nNo lo tengan denegado expl\u00edcitamente.",
+            "title": "Configuraciones"
+        },
+        {
+            "location": "/Configuraciones/#organizer",
+            "text": "Organizer  s\u00f3lo permite trabajar a aquellos perfiles de usuario que:     Tengan habilitado el permiso 2157.    No lo tengan denegado expl\u00edcitamente.",
+            "title": "ORGANIZER"
+        },
+        {
+            "location": "/Configuraciones/#panel-del-mecanico",
+            "text": "Panel del mec\u00e1nico  s\u00f3lo permite trabajar a aquellos perfiles de usuario que:     Tengan habilitado el permiso 2066.    No lo tengan denegado expl\u00edcitamente.",
+            "title": "PANEL DEL MEC\u00c1NICO"
+        },
+        {
+            "location": "/Versiones/",
+            "text": "Esta p\u00e1gina contiene la relaci\u00f3n de todas las versiones de la aplicaci\u00f3n \nOrganizer\n con los cambios, mejoras y correcciones aplicados.   \n\n\n\n\nVersi\u00f3n RC\n\n\nMEJORA\n  \n\n\n\n\nSe diferenci\u00f3n por c\u00f3lor e intensidad de color las \n\u00d3rdenes\n (m\u00e1s oscuro) de las \nCitas\n (m\u00e1s claro).   \n\n\n\n\n\n\nVersi\u00f3n 17.06.28\n\n\nNUEVA FUNCIONALIDAD\n  \n\n\n\n\nMostrar trabajos sin planificar.  \n\n\nModificar tiempo y partir trabajos desde el panel derecho.\n\n\n\n\nMEJORAS\n  \n\n\n\n\nLa barra de desplazamiento aumenta su ancho.  \n\n\n\n\n\n\nVersi\u00f3n 17.01.13\n\n\nCORRECCI\u00d3N\n  \n\n\n\n\nSe corrije el formato de los tiempos para mostrar siempre  los decimales.  \n\n\n\n\nMEJORA\n  \n\n\n\n\nDiferenciaci\u00f3n entre citas y \u00f3rdenes.    \n\n\n\n\n\n\nVersi\u00f3n 16.10.31\n\n\nCORRECCI\u00d3N\n  \n\n\n\n\nEl tiempo de los mec\u00e1nicos no se estaba planificando cuando se asignaba una cita planificada para equipo a un mec\u00e1nico.    \n\n\nLas aver\u00edas aparec\u00edan disponibles en vez de \nAbiertas\n sin tener a ning\u00fan mec\u00e1nico trabajando en ellas.\n\n\n\n\n\n\nVersi\u00f3n 16.09.26\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nAgrupar aver\u00edas no priorizadas.  \n\n\n\n\n\n\nVersi\u00f3n 16.07.11\n\n\nNUEVAS FUNCIONALIDADES\n\n\n\n\nVisualizar distinci\u00f3n entre \u00f3rdenes de taller y citas.  \n\n\nIdentificar aver\u00edas repetitivas.  \n\n\n\n\n\n\nVersi\u00f3n 16.06.17\n\n\nCORRECCIONES\n  \n\n\n\n\nC\u00e1lculo de la disponibilidad de los mec\u00e1nicos cuando se produce asignaci\u00f3n de trabajos entre operarios unos pertenecientes a equipos.\n\n\nNo se mostraban ni asignaban los trabajos no planificados a nadie, cuando se seleccionaba una orden. \n\n\n\n\n\n\nVersi\u00f3n 16.06.02\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nAsignaci\u00f3n de trabajos/\u00f3rdenes de equipos a mec\u00e1nicos.  \n\n\n\n\nVersi\u00f3n 16.11.01\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nAcceso centralizado al Workshop y al Panel del Mec\u00e1nico.  \n\n\n\n\n\n\nVersi\u00f3n 15.10.27\n\n\nWORKSHOP\n\n\nNUEVAS FUNCIONALIDADES\n    \n\n\n\n\nModificar tiempo planificado inicialmente.  \n\n\nChequear configuraci\u00f3n de fluidos.     \n\n\n\n\nCORRECCIONES\n    \n\n\n\n\nPartir un trabajo mueve otros trabajos a otros mec\u00e1nicos.  \n\n\nGesti\u00f3n de fluidos.\n\n\n\n\n\n\nVersi\u00f3n 15.09.28\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nPanel de petici\u00f3n de tiempo extra para el mec\u00e1nico.  \n\n\n\n\nCORRECCIONES\n    \n\n\n\n\nNo se actualizaba el tiempo disponible de un mec\u00e1nico al mover una aver\u00eda a otro mec\u00e1nico.  \n\n\nError al asociar una oferta en Cita Previa (Active Selling).  \n\n\nNo funcionaba mover un trabajo a primero del d\u00eda.\n\n\n\n\n\n\nVersi\u00f3n 15.09.11\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nSe muestran las motorizaciones por modelo seleccionado.  \n\n\n\n\n\n\nVersi\u00f3n 15.08.10\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nPlanificaci\u00f3n de los trabajos creados desde la recepci\u00f3n del veh\u00edculo para el mec\u00e1nico responsable de la orden.  \n\n\n\n\nCORRECCIONES\n  \n\n\n\n\nLa oferta de Active Selling daba mensaje de error por falta de imputaciones.  \n\n\nEl c\u00e1lculo del precio estimado de un paquete de PPSO resultaba err\u00f3neo.  \n\n\nLa informaci\u00f3n del veh\u00edculo en el panel de mec\u00e1nico no coincid\u00eda.  \n\n\nError de acceso cuando el usuario de Windows no est\u00e1 configurado.  \n\n\nEl \nOrganizador\n cierra al planificar un mec\u00e1nico que tiene planificaci\u00f3n para dos talleres.  \n\n\n\n\n\n\nVersi\u00f3n 15.07.31\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nPlanificaci\u00f3n de los trabajos creados desde la recepci\u00f3n del veh\u00edculo para el mec\u00e1nico responsable de la orden.  \n\n\n\n\nCORRECCIONES\n  \n\n\n\n\nLas citas y las \u00f3rdenes en el \nPanel del mec\u00e1nico\n no se mostraban en el orden correcto.  \n\n\nEl \nPanel del mec\u00e1nico\n se vac\u00eda tras seleccionar una orden en el Organizador y refrescar despu\u00e9s de haber anulado la orden en SIMA.      \n\n\nLa orden de un veh\u00edculo sin matr\u00edcula no se mostraba correctamente en el \nPanel del mec\u00e1nico\n.   \n\n\n\n\n\n\nVersi\u00f3n 15.07.15\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nVista de \nTrabajos disponibles\n para la solicitud de un mec\u00e1nico.  \n\n\nSelector de empresa para usuarios.  \n\n\n\n\nMEJORAS\n  \n\n\n\n\nRendimiento de la aplicaci\u00f3n.  \n\n\n\n\nCORRECCIONES\n  \n\n\n\n\nAl mover dos asignaciones desde el panel de resumen de orden se produc\u00eda un error.  \n\n\nTras arrastrar un bloque de trabajo en la columna del mec\u00e1nico se produc\u00eda un error.\n\n\nAl arrastrar un trabajo en la columna del mec\u00e1nico que no hac\u00eda \nscroll\n autom\u00e1tico se produc\u00eda un error.   \n\n\n\n\n\n\nVersi\u00f3n 15.06.15\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nB\u00fasqueda por modelo y combustible. \n\n\n\n\nMEJORAS\n  \n\n\n\n\nMejora del rendimiento de la aplicaci\u00f3n.  \n\n\n\n\nCORRECCIONES\n  \n\n\n\n\nEl tiempo en que se parte un trabajo pod\u00eda superar el tiempo asignado al trabajo.  \n\n\nLas \u00f3rdenes cambiaban de posici\u00f3n dentro del bloque cuando se mov\u00edan de un d\u00eda a otro.  \n\n\nEl estado de la aver\u00eda no cambiaba cuando el mec\u00e1nico se picaba en ella.  \n\n\nError al arrastrar \u00f3rdenes desde el panel de \u00f3rdenes hasta el organizador.  \n\n\n\n\n\n\nVersi\u00f3n 15.04.17\n\n\nNUEVAS FUNCIONALIDADES\n  \n\n\n\n\nVisualizaci\u00f3n del estado de los trabajos.  \n\n\nVisualizaci\u00f3n de los trabajos terminados.\n\n\n\n\nMEJORAS\n  \n\n\n\n\nRendimiento de la aplicaci\u00f3n.",
+            "title": "Versiones"
+        },
+        {
+            "location": "/Versiones/#version-rc",
+            "text": "MEJORA      Se diferenci\u00f3n por c\u00f3lor e intensidad de color las  \u00d3rdenes  (m\u00e1s oscuro) de las  Citas  (m\u00e1s claro).",
+            "title": "Versi\u00f3n RC"
+        },
+        {
+            "location": "/Versiones/#version-170628",
+            "text": "NUEVA FUNCIONALIDAD      Mostrar trabajos sin planificar.    Modificar tiempo y partir trabajos desde el panel derecho.   MEJORAS      La barra de desplazamiento aumenta su ancho.",
+            "title": "Versi\u00f3n 17.06.28"
+        },
+        {
+            "location": "/Versiones/#version-170113",
+            "text": "CORRECCI\u00d3N      Se corrije el formato de los tiempos para mostrar siempre  los decimales.     MEJORA      Diferenciaci\u00f3n entre citas y \u00f3rdenes.",
+            "title": "Versi\u00f3n 17.01.13"
+        },
+        {
+            "location": "/Versiones/#version-161031",
+            "text": "CORRECCI\u00d3N      El tiempo de los mec\u00e1nicos no se estaba planificando cuando se asignaba una cita planificada para equipo a un mec\u00e1nico.      Las aver\u00edas aparec\u00edan disponibles en vez de  Abiertas  sin tener a ning\u00fan mec\u00e1nico trabajando en ellas.",
+            "title": "Versi\u00f3n 16.10.31"
+        },
+        {
+            "location": "/Versiones/#version-160926",
+            "text": "NUEVAS FUNCIONALIDADES      Agrupar aver\u00edas no priorizadas.",
+            "title": "Versi\u00f3n 16.09.26"
+        },
+        {
+            "location": "/Versiones/#version-160711",
+            "text": "NUEVAS FUNCIONALIDADES   Visualizar distinci\u00f3n entre \u00f3rdenes de taller y citas.    Identificar aver\u00edas repetitivas.",
+            "title": "Versi\u00f3n 16.07.11"
+        },
+        {
+            "location": "/Versiones/#version-160617",
+            "text": "CORRECCIONES      C\u00e1lculo de la disponibilidad de los mec\u00e1nicos cuando se produce asignaci\u00f3n de trabajos entre operarios unos pertenecientes a equipos.  No se mostraban ni asignaban los trabajos no planificados a nadie, cuando se seleccionaba una orden.",
+            "title": "Versi\u00f3n 16.06.17"
+        },
+        {
+            "location": "/Versiones/#version-160602",
+            "text": "NUEVAS FUNCIONALIDADES      Asignaci\u00f3n de trabajos/\u00f3rdenes de equipos a mec\u00e1nicos.",
+            "title": "Versi\u00f3n 16.06.02"
+        },
+        {
+            "location": "/Versiones/#version-161101",
+            "text": "NUEVAS FUNCIONALIDADES      Acceso centralizado al Workshop y al Panel del Mec\u00e1nico.",
+            "title": "Versi\u00f3n 16.11.01"
+        },
+        {
+            "location": "/Versiones/#version-151027",
+            "text": "WORKSHOP  NUEVAS FUNCIONALIDADES        Modificar tiempo planificado inicialmente.    Chequear configuraci\u00f3n de fluidos.        CORRECCIONES        Partir un trabajo mueve otros trabajos a otros mec\u00e1nicos.    Gesti\u00f3n de fluidos.",
+            "title": "Versi\u00f3n 15.10.27"
+        },
+        {
+            "location": "/Versiones/#version-150928",
+            "text": "NUEVAS FUNCIONALIDADES      Panel de petici\u00f3n de tiempo extra para el mec\u00e1nico.     CORRECCIONES        No se actualizaba el tiempo disponible de un mec\u00e1nico al mover una aver\u00eda a otro mec\u00e1nico.    Error al asociar una oferta en Cita Previa (Active Selling).    No funcionaba mover un trabajo a primero del d\u00eda.",
+            "title": "Versi\u00f3n 15.09.28"
+        },
+        {
+            "location": "/Versiones/#version-150911",
+            "text": "NUEVAS FUNCIONALIDADES      Se muestran las motorizaciones por modelo seleccionado.",
+            "title": "Versi\u00f3n 15.09.11"
+        },
+        {
+            "location": "/Versiones/#version-150810",
+            "text": "NUEVAS FUNCIONALIDADES      Planificaci\u00f3n de los trabajos creados desde la recepci\u00f3n del veh\u00edculo para el mec\u00e1nico responsable de la orden.     CORRECCIONES      La oferta de Active Selling daba mensaje de error por falta de imputaciones.    El c\u00e1lculo del precio estimado de un paquete de PPSO resultaba err\u00f3neo.    La informaci\u00f3n del veh\u00edculo en el panel de mec\u00e1nico no coincid\u00eda.    Error de acceso cuando el usuario de Windows no est\u00e1 configurado.    El  Organizador  cierra al planificar un mec\u00e1nico que tiene planificaci\u00f3n para dos talleres.",
+            "title": "Versi\u00f3n 15.08.10"
+        },
+        {
+            "location": "/Versiones/#version-150731",
+            "text": "NUEVAS FUNCIONALIDADES      Planificaci\u00f3n de los trabajos creados desde la recepci\u00f3n del veh\u00edculo para el mec\u00e1nico responsable de la orden.     CORRECCIONES      Las citas y las \u00f3rdenes en el  Panel del mec\u00e1nico  no se mostraban en el orden correcto.    El  Panel del mec\u00e1nico  se vac\u00eda tras seleccionar una orden en el Organizador y refrescar despu\u00e9s de haber anulado la orden en SIMA.        La orden de un veh\u00edculo sin matr\u00edcula no se mostraba correctamente en el  Panel del mec\u00e1nico .",
+            "title": "Versi\u00f3n 15.07.31"
+        },
+        {
+            "location": "/Versiones/#version-150715",
+            "text": "NUEVAS FUNCIONALIDADES      Vista de  Trabajos disponibles  para la solicitud de un mec\u00e1nico.    Selector de empresa para usuarios.     MEJORAS      Rendimiento de la aplicaci\u00f3n.     CORRECCIONES      Al mover dos asignaciones desde el panel de resumen de orden se produc\u00eda un error.    Tras arrastrar un bloque de trabajo en la columna del mec\u00e1nico se produc\u00eda un error.  Al arrastrar un trabajo en la columna del mec\u00e1nico que no hac\u00eda  scroll  autom\u00e1tico se produc\u00eda un error.",
+            "title": "Versi\u00f3n 15.07.15"
+        },
+        {
+            "location": "/Versiones/#version-150615",
+            "text": "NUEVAS FUNCIONALIDADES      B\u00fasqueda por modelo y combustible.    MEJORAS      Mejora del rendimiento de la aplicaci\u00f3n.     CORRECCIONES      El tiempo en que se parte un trabajo pod\u00eda superar el tiempo asignado al trabajo.    Las \u00f3rdenes cambiaban de posici\u00f3n dentro del bloque cuando se mov\u00edan de un d\u00eda a otro.    El estado de la aver\u00eda no cambiaba cuando el mec\u00e1nico se picaba en ella.    Error al arrastrar \u00f3rdenes desde el panel de \u00f3rdenes hasta el organizador.",
+            "title": "Versi\u00f3n 15.06.15"
+        },
+        {
+            "location": "/Versiones/#version-150417",
+            "text": "NUEVAS FUNCIONALIDADES      Visualizaci\u00f3n del estado de los trabajos.    Visualizaci\u00f3n de los trabajos terminados.   MEJORAS      Rendimiento de la aplicaci\u00f3n.",
+            "title": "Versi\u00f3n 15.04.17"
+        }
+    ]
+}

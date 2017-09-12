@@ -1,0 +1,17 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\Mobile Workshop\RC\en-GB
+pages: 
+- 'SIMA Service - Home': 'index.md'
+- 'Mobile Workshop': 'Mobile Workshop.md'
+- 'Panel of appointments': 'Panel of appointments.md'
+- 'Customer profile': 'Customer profile.md'
+- 'Vehicle information': 'Vehicle information.md'
+- 'Receptioning a vehicle': 'Receptioning a vehicle.md'
+- 'Active reception': 'Active reception.md'
+- 'Visual check': 'Visual check.md'
+- 'Validating jobs': 'Validating jobs.md'
+- 'Configurations': 'Configurations.md'
+- 'Versions': 'Versions.md'
+

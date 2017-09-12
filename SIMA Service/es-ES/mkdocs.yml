@@ -1,0 +1,21 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\SIMA Service\RC\es-ES
+pages: 
+- 'SIMA Service - Inicio': 'index.md'
+- 'Trabajar con SIMA Service': 'Trabajar con SIMA Service.md'
+- 'Búsqueda activa': 'Busqueda activa.md'
+- 'Precisas': 'Precisas.md'
+- 'Campañas': 'Campanas.md'
+- 'Recordatorios': 'Recordatorios.md'
+- 'Logístico': 'Logistico.md'
+- 'Gestor de clientes': 'Gestor de clientes.md'
+- 'Crear nueva cita': 'Crear nueva cita.md'
+- '¿Qué es un target?': '¿Que es un target-.md'
+- 'Movilidad': 'Movilidad.md'
+- 'Estado de carriles': 'Estado de carriles.md'
+- 'Gestión de citas': 'Gestion de citas.md'
+- 'Subscribirme': 'Subscribirme.md'
+- 'Versiones': 'Versiones.md'
+

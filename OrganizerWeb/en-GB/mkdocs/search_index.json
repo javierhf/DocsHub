@@ -1,0 +1,144 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to the user documentation pages of the \nOrganizer",
+            "title": "SIMA Service - Home"
+        },
+        {
+            "location": "/Organizer/",
+            "text": "ORGANIZER\n\n\nThe \nOrganizer\n is a panel divided in two well-differentiated areas, \nheader\n and \nworking area\n, and there you can find: the \nmechanics\n and the mechanic's \navailability\n, the \nblocks of jobs\n and \njobs (active or paused)\n, all day-grouped.  \n\n\n\n\nHeader\n\n\nIt is the upper area of the organizer and it shows information about:  \n\n\n\n\n Refresh the organizer panel.    \n\n\n Select the starting date to organize the workshop.  \n\n\n Select how many weeks we want to see and scheduled.  \n\n\n Queued orders view.  \n\n\n Number of clients at desk.\n\n\n Number of time requests.\n\n\n Visualize orders containing jobs assigned to teams to assign to mechanics.   \n\n\n Unassigned jobs. \n\n\n Access the user help documentation. \n\n\n\n\nWorking Area\n\n\nThe rest of the screen is the \nOrganizing Area\n where we can check \nthe mechanics\n in our workshop, their \navailability\n and the \nblock of jobs\n and \njobs\n assigned to them for each vehicle.    \n\n\nThe block of jobs give us information about:\n\n\n\n\n \nReception planned date\n and \nDelivering planned date\n.  \n\n\n Iniciated jobs and jobs already iniciated (currently unattended).  \n\n\nPlanned time for each job and block of jobs.  \n\n\nOrder: \n  \n\n\nAppointment:  \n    \n\n\nRepetitive damage:  \n  \n\n\n\n\nHere we can check the information about:  \n\n\n\n\n \n \nScheduled date for reception\n  and _Delivery date for the vehicle.    \n\n\n Already initiated jobs and jobs where we have been working.  \n\n\nScheduled date for each job and block of jobs.    \n\n\n\n\n The \nOrganizer\n groups the non-scheduled damages automatically together in the souce order.  \n\n\nIn addition, we can drag and drop jobs and blocks of jobs within a mechanic's column and between different mechanics in order to:\n\n\n\n\nAssign a job or block of jobs from one mechanic to another.  \n\n\nPrioritize the jobs already assigned to a mechanic.  \n\n\nAssign all jobs linked to an order (drag&drop).  \n\n\nSplit jobs and modify the planned time from \n.\n\n\n\n\n The Workshop Organizer will not split a job \nif the target mechanic has no availability\n.",
+            "title": "Organizer"
+        },
+        {
+            "location": "/Organizer/#organizer",
+            "text": "The  Organizer  is a panel divided in two well-differentiated areas,  header  and  working area , and there you can find: the  mechanics  and the mechanic's  availability , the  blocks of jobs  and  jobs (active or paused) , all day-grouped.",
+            "title": "ORGANIZER"
+        },
+        {
+            "location": "/Organizer/#header",
+            "text": "It is the upper area of the organizer and it shows information about:      Refresh the organizer panel.       Select the starting date to organize the workshop.     Select how many weeks we want to see and scheduled.     Queued orders view.     Number of clients at desk.   Number of time requests.   Visualize orders containing jobs assigned to teams to assign to mechanics.      Unassigned jobs.    Access the user help documentation.",
+            "title": "Header"
+        },
+        {
+            "location": "/Organizer/#working-area",
+            "text": "The rest of the screen is the  Organizing Area  where we can check  the mechanics  in our workshop, their  availability  and the  block of jobs  and  jobs  assigned to them for each vehicle.      The block of jobs give us information about:     Reception planned date  and  Delivering planned date .     Iniciated jobs and jobs already iniciated (currently unattended).    Planned time for each job and block of jobs.    Order:      Appointment:         Repetitive damage:        Here we can check the information about:         Scheduled date for reception   and _Delivery date for the vehicle.       Already initiated jobs and jobs where we have been working.    Scheduled date for each job and block of jobs.        The  Organizer  groups the non-scheduled damages automatically together in the souce order.    In addition, we can drag and drop jobs and blocks of jobs within a mechanic's column and between different mechanics in order to:   Assign a job or block of jobs from one mechanic to another.    Prioritize the jobs already assigned to a mechanic.    Assign all jobs linked to an order (drag&drop).    Split jobs and modify the planned time from  .    The Workshop Organizer will not split a job  if the target mechanic has no availability .",
+            "title": "Working Area"
+        },
+        {
+            "location": "/Mini-organizer/",
+            "text": "MINIORGANIZER\n  \n\n\nMini-organizer\n appears on the rigth side of the Organizer \nafter clicking on an order. We will find there all the \njobs\n of an order _organized by day and mechanic\n.  \n\n\n    \n\n\nMini-organizer\n visualize the following information:   \n\n\n\n\n\n\nSee extended information about the jobs of an order (mouse-over an order).    \n\n\nPlan a job of the order to a different day and mechanic.\n\n< - \n \nModify the time planned.",
+            "title": "Mini-organizer"
+        },
+        {
+            "location": "/Panel of the mechanic/",
+            "text": "PANEL OF THE MECHANIC\n  \n\n\nPanel of the mechanic\n shows the jobs that the \nPlanner\n role has prioritized for a certain mechanic. In addition, we can see the following information:    \n\n\n-  \n  - Orders.\n \n\n\n- \n  - Appointments.\n    \n\n\nWe can also \nrequest time\n for a certain job.",
+            "title": "Panel of the mechanic"
+        },
+        {
+            "location": "/Configurations/",
+            "text": "CONFIGURACIONES\n  \n\n\nProducts of \nOrganizer\n and \nPanel of Mechanic\n manage users profile to access only to those applications \nuser related\n.  \n\n\n  \n\n\nORGANIZER\n\n\nOrganizer\n may be accessed exclusively by those user profiles:  \n\n\n\n\nwith 2157 permissions.  \n\n\n2157 is not explicitly denied.\n\n\n\n\nPANEL OF MECHANIC\n\n\nPanel of Mechanic\n may be accessed exclusively by those user profiles:  \n\n\n\n\nwith 2066 permissions.  \n\n\n2066 is not explicitly denied.",
+            "title": "Configurations"
+        },
+        {
+            "location": "/Configurations/#organizer",
+            "text": "Organizer  may be accessed exclusively by those user profiles:     with 2157 permissions.    2157 is not explicitly denied.",
+            "title": "ORGANIZER"
+        },
+        {
+            "location": "/Configurations/#panel-of-mechanic",
+            "text": "Panel of Mechanic  may be accessed exclusively by those user profiles:     with 2066 permissions.    2066 is not explicitly denied.",
+            "title": "PANEL OF MECHANIC"
+        },
+        {
+            "location": "/Versions/",
+            "text": "This page details the major additions and changes in each feature released of the \nOrganizer\n.    \n\n\n\n\nVersion RC\n\n\nMEJORA\n  \n\n\n\n\nOrders\n and \nAppointments\n are now more clear by darkening  the orders and greying out the appointments.      \n\n\n\n\n\n\nVersion 17.06.28\n\n\nNEW FEATURES\n  \n\n\n\n\nShow unplanned jobs.  \n\n\nModify time and split jobs from the order panel (double click on order).\n\n\n\n\nIMPROVEMENTS\n  \n\n\n\n\nScroll bar is broadened.    \n\n\n\n\n\n\nVersion 17.01.13\n\n\nIMPROVEMENT\n    \n\n\n\n\nOrders and appointments are clearly differentiated one from the other.    \n\n\n\n\nFIXES\n  \n\n\n\n\nTime format is set to show decimals.   \n\n\n\n\n\n\nVersion 16.10.31\n\n\nFIXES\n  \n\n\n\n\nTime of mechanics was not being planified when an order, previously planned for a team, was assigned to a single mechanic.    \n\n\nJobs not being worked by any mechanic appeared as available instead of \nOpen\n .\n\n\n\n\n\n\nVersion 16.09.26\n\n\nNEW FEATURES\n  \n\n\n\n\nDamages are grouped to its source order even if have not been prioritized yet.  \n\n\n\n\n\n\nVersion 16.07.11\n\n\nNEW FEATURES\n  \n\n\n\n\nVisualize workshop orders and appointments differently.  \n\n\nIdentify repetitive damages.  \n\n\n\n\n\n\nVersion 16.06.17\n\n\nFIXES\n  \n\n\n\n\nMechanics availability was not correct when assigning jobs between mechanics that belong to different teams. \n\n\nUnscheduled jobs were not showed neither assigned, when choosing an order.\n\n\n\n\n\n\nVersion 16.06.02\n\n\nNEW FEATURES\n  \n\n\n\n\nAssign jobs/workshop orders from teams to mechanics.    \n\n\n\n\n\n\nVersion 16.11.01\n\n\nNEW FEATURES\n  \n\n\n\n\nCentralizes access to Workshop and Panel of Mechanic.  \n\n\n\n\n\n\nVersion 15.10.27\n\n\nWORKSHOP\n\n\nNEW FEATURES\n    \n\n\n\n\nModify time previously planned.  \n\n\nCheck for fluids configuration.     \n\n\n\n\nFIXES\n    \n\n\n\n\nSplit a job and move jobs to ohter mechanics.  \n\n\n\n\n\n\nVersion 15.09.28\n\n\nNEW FEATURES\n    \n\n\n\n\nTime request in the Panel of Mechanic.\n\n\n\n\nFIXES\n  \n\n\n\n\nMoving a job to the first position of a day showed an error.  \n\n\nUpdate of available time when moving a damage.  \n\n\nLinking an offer in an prior appointment showed an error (Active Selling).  \n\n\n\n\n\n\nVersion 15.09.11\n\n\nNEW FEATURES\n     \n\n\n\n\nSelector for the engines of a selected model.    \n\n\n\n\n\n\nVersion 15.08.10\n\n\nNEW FEATURES\n  \n\n\n\n\nPlan jobs created at the reception of a vehicle by the mechanic responsible of the order.\n\n\n\n\nFIXES\n    \n\n\n\n\nActive Selling offers shown an error message indicating  \nThere are no allocations\n.  \n\n\nEstimated price calculation for a PPSO package didn't match.  \n\n\nThe \nMechanic's Panel\n showed information that didn't match for the selected vehicle.  \n\n\nAccess error if the Windows user wasn't configured.   \n\n\nThe \nOrganizer\n shut down when planning a mechanic that already has planning in two workshops.  \n\n\n\n\n\n\nVersion 15.07.31\n\n\nNEW FEATURES\n  \n\n\n\n\nPlanning jobs created at the reception of a vehicle by the mechanic responsible of the order.     \n\n\n\n\nFIXES\n  \n\n\n\n\nWrong order for appointments and orders shown in the \nMechanic's Panel\n.  \n\n\nThe \nMechanic's Panel\n emptied after selecting an order in the \nOrganizer\n, cancel the order in SIMA and refreshing.        \n\n\nOrders weren't shown correctly for vehicles without license plate in the \nMechanic's Panel\n.    \n\n\n\n\n\n\nVersion 15.07.15\n\n\nNEW FEATURES\n  \n\n\n\n\nView of \nAvailable jobs\n for a mechanic's request.  \n\n\nEnterprise selector for the user.    \n\n\n\n\nIMPROVEMENTS\n  \n\n\n\n\nApplication performance.  \n\n\n\n\nFIXES\n  \n\n\n\n\nBug when moving two jobs assigned from the \nbrief order panel\n.  \n\n\nBug when dragging a block of jobs in the mechanic\u2019s column.  \n\n\nScroll didn't work when dragging a job in the mechanic's column.  \n\n\n\n\n\n\nVersion 15.06.15\n\n\nIMPROVEMENTS\n  \n\n\n\n\nSearch by model and fuel  (PPSO).\n\n\nApplication performance.  \n\n\n\n\nFIXES\n  \n\n\n\n\nA job could be splitted in times higher than the time assigned for a job.  \n\n\nOrders changed their position inside the block of jobs when moving to a different day.    \n\n\nThe state of a damage didn't change after being \nclicked\n by a mechanic.    \n\n\nBug when dragging orders from the \nMechanic's Panel\n to the \nOrganizer\n.  \n\n\n\n\n\n\nVersion 15.04.17\n\n\nNEW FEATURES\n  \n\n\n\n\nJob states are shown.    \n\n\nFinished jobs are shown.  \n\n\n\n\nIMPROVEMENTS\n  \n\n\n\n\nApplication performance.",
+            "title": "Versions"
+        },
+        {
+            "location": "/Versions/#version-rc",
+            "text": "MEJORA      Orders  and  Appointments  are now more clear by darkening  the orders and greying out the appointments.",
+            "title": "Version RC"
+        },
+        {
+            "location": "/Versions/#version-170628",
+            "text": "NEW FEATURES      Show unplanned jobs.    Modify time and split jobs from the order panel (double click on order).   IMPROVEMENTS      Scroll bar is broadened.",
+            "title": "Version 17.06.28"
+        },
+        {
+            "location": "/Versions/#version-170113",
+            "text": "IMPROVEMENT        Orders and appointments are clearly differentiated one from the other.       FIXES      Time format is set to show decimals.",
+            "title": "Version 17.01.13"
+        },
+        {
+            "location": "/Versions/#version-161031",
+            "text": "FIXES      Time of mechanics was not being planified when an order, previously planned for a team, was assigned to a single mechanic.      Jobs not being worked by any mechanic appeared as available instead of  Open  .",
+            "title": "Version 16.10.31"
+        },
+        {
+            "location": "/Versions/#version-160926",
+            "text": "NEW FEATURES      Damages are grouped to its source order even if have not been prioritized yet.",
+            "title": "Version 16.09.26"
+        },
+        {
+            "location": "/Versions/#version-160711",
+            "text": "NEW FEATURES      Visualize workshop orders and appointments differently.    Identify repetitive damages.",
+            "title": "Version 16.07.11"
+        },
+        {
+            "location": "/Versions/#version-160617",
+            "text": "FIXES      Mechanics availability was not correct when assigning jobs between mechanics that belong to different teams.   Unscheduled jobs were not showed neither assigned, when choosing an order.",
+            "title": "Version 16.06.17"
+        },
+        {
+            "location": "/Versions/#version-160602",
+            "text": "NEW FEATURES      Assign jobs/workshop orders from teams to mechanics.",
+            "title": "Version 16.06.02"
+        },
+        {
+            "location": "/Versions/#version-161101",
+            "text": "NEW FEATURES      Centralizes access to Workshop and Panel of Mechanic.",
+            "title": "Version 16.11.01"
+        },
+        {
+            "location": "/Versions/#version-151027",
+            "text": "WORKSHOP  NEW FEATURES        Modify time previously planned.    Check for fluids configuration.        FIXES        Split a job and move jobs to ohter mechanics.",
+            "title": "Version 15.10.27"
+        },
+        {
+            "location": "/Versions/#version-150928",
+            "text": "NEW FEATURES        Time request in the Panel of Mechanic.   FIXES      Moving a job to the first position of a day showed an error.    Update of available time when moving a damage.    Linking an offer in an prior appointment showed an error (Active Selling).",
+            "title": "Version 15.09.28"
+        },
+        {
+            "location": "/Versions/#version-150911",
+            "text": "NEW FEATURES         Selector for the engines of a selected model.",
+            "title": "Version 15.09.11"
+        },
+        {
+            "location": "/Versions/#version-150810",
+            "text": "NEW FEATURES      Plan jobs created at the reception of a vehicle by the mechanic responsible of the order.   FIXES        Active Selling offers shown an error message indicating   There are no allocations .    Estimated price calculation for a PPSO package didn't match.    The  Mechanic's Panel  showed information that didn't match for the selected vehicle.    Access error if the Windows user wasn't configured.     The  Organizer  shut down when planning a mechanic that already has planning in two workshops.",
+            "title": "Version 15.08.10"
+        },
+        {
+            "location": "/Versions/#version-150731",
+            "text": "NEW FEATURES      Planning jobs created at the reception of a vehicle by the mechanic responsible of the order.        FIXES      Wrong order for appointments and orders shown in the  Mechanic's Panel .    The  Mechanic's Panel  emptied after selecting an order in the  Organizer , cancel the order in SIMA and refreshing.          Orders weren't shown correctly for vehicles without license plate in the  Mechanic's Panel .",
+            "title": "Version 15.07.31"
+        },
+        {
+            "location": "/Versions/#version-150715",
+            "text": "NEW FEATURES      View of  Available jobs  for a mechanic's request.    Enterprise selector for the user.       IMPROVEMENTS      Application performance.     FIXES      Bug when moving two jobs assigned from the  brief order panel .    Bug when dragging a block of jobs in the mechanic\u2019s column.    Scroll didn't work when dragging a job in the mechanic's column.",
+            "title": "Version 15.07.15"
+        },
+        {
+            "location": "/Versions/#version-150615",
+            "text": "IMPROVEMENTS      Search by model and fuel  (PPSO).  Application performance.     FIXES      A job could be splitted in times higher than the time assigned for a job.    Orders changed their position inside the block of jobs when moving to a different day.      The state of a damage didn't change after being  clicked  by a mechanic.      Bug when dragging orders from the  Mechanic's Panel  to the  Organizer .",
+            "title": "Version 15.06.15"
+        },
+        {
+            "location": "/Versions/#version-150417",
+            "text": "NEW FEATURES      Job states are shown.      Finished jobs are shown.     IMPROVEMENTS      Application performance.",
+            "title": "Version 15.04.17"
+        }
+    ]
+}

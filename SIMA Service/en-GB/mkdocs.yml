@@ -1,0 +1,21 @@
+theme: readthedocs
+site_name: SIMA Documentation
+google_analytics: ['UA-35617728-3', 'auto']
+site_dir: E:\Papyrus\SIMA Service\RC\en-GB
+pages: 
+- 'SIMA Service - Home': 'index.md'
+- 'Work with SIMA Service': 'Work with SIMA Service.md'
+- 'Active search': 'Active search.md'
+- 'Requires': 'Requires.md'
+- 'Campaigns': 'Campaigns.md'
+- 'Reminders': 'Reminders.md'
+- 'Workshop logistics': 'Workshop logistics.md'
+- 'Customer manager': 'Customer manager.md'
+- 'Create new appoinment': 'Create new appoinment.md'
+- 'What is a target?': 'What is a target-.md'
+- 'Mobility options': 'Mobility options.md'
+- 'Crossing Gate': 'Crossing Gate.md'
+- 'Appointment management': 'Appointment management.md'
+- 'Subscribe me': 'Subscribe me.md'
+- 'Versions': 'Versions.md'
+

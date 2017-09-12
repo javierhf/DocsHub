@@ -7,11 +7,23 @@
   
 # SkilderCloud    
   
-**SkilderCloud** es la aplicación de _gestión de órdenes_ de taller a través de las fases definidas para éstas, y los roles de _Mecánico_ y _Managers_.   
+**SkilderCloud** es la aplicación de _gestión de órdenes_ de taller a través de las fases definidas para éstas, y los roles de _Mecánico_ y _Managers_.   Accedemos mediante nuestro correo electrónico y contraseña.
+  
+
   
 
 
-![](Images/es-ES_SkilderCloud_LoginScreen.png)  
+![](Images/es-ES_SkilderCloud_LoginScreen.png)      
+  
+**SkilderCloud** Se divide en dos _áreas principales_ cada una de las cuales nos ofrece realizar diferentes acciones:   
+  
+**Barra superior**      
+ > ![](Images/ic_user.png) Conexión/Desconexión del usuario, cambio de contraseña.  
+ > ![](Images/ic_hamburguer.png) Acceso al panel y a los informes  
+  
+**Área de trabajo**.  
+  
+Es el área central donde, según sea nuestro rol de usuario (mecánico o manager), tendremos una vista personalizada.
   
 ## Roles de usuario SkilderCloud  
   
@@ -26,10 +38,7 @@ En todo momento, podremos conocer el número **total de órdenes** _En curso_, _
 Las **órdenes** nos muestran el mecánico asigando, el _Número de orden_, la _matrícula_ y el _modelo_ del vehículo además del _Color_.    
   
 
-![](Images/ic_hamburguer.png) Este icono nos permitirá, como _Manager_ acceder al tablero del taller (estado actual), en cualquier momento_ y a los informes.
-
-
-  
+ 
 **MECÁNICO**        
   
 Aquí se mostrará  todas las **órdenes asignadas** a nuestro mecánico así como el **detalle de la orden** seleccionada.
