@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to the user documentacion of Multimedia Manager.",
+            "title": "Home"
+        },
+        {
+            "location": "/Multimedia manager/",
+            "text": "MULTIMEDIA MANAGER\n\n\nMultimedia Manager\n lets us add links to multimedia content (pdf, video, web or featured elements) that will then be accesible in the \nMultimedia\n page, in \nFirst Contact\n.  \n\n\n    \n\n\nAdd multimedia content\n\n\nWe add new multimedia content attending to a selectd brand and version. To do so we just have to:  \n\n\n\n\n1.\n Select a type of content.  \n\n\n2.\n Write a name and a description for our content.\n\n\n3.\n Add the link to the content.\n\n\n5.\n Select \nModel year\n, \nModel Group\n and \nVersi\u00f3n\n.  \n\n\n6.\n Set \nvigency period\n.   \n\n\n\n\n Featured element can only be added to versions.",
+            "title": "Multimedia manager"
+        },
+        {
+            "location": "/Multimedia manager/#multimedia-manager",
+            "text": "Multimedia Manager  lets us add links to multimedia content (pdf, video, web or featured elements) that will then be accesible in the  Multimedia  page, in  First Contact .",
+            "title": "MULTIMEDIA MANAGER"
+        },
+        {
+            "location": "/Multimedia manager/#add-multimedia-content",
+            "text": "We add new multimedia content attending to a selectd brand and version. To do so we just have to:     1.  Select a type of content.    2.  Write a name and a description for our content.  3.  Add the link to the content.  5.  Select  Model year ,  Model Group  and  Versi\u00f3n .    6.  Set  vigency period .       Featured element can only be added to versions.",
+            "title": "Add multimedia content"
+        },
+        {
+            "location": "/Versions/",
+            "text": "This page details the different versions of the product Multimedia Content Manager.  \n\n\n\n\nVersion 17.03.23\n\n\n\n\nVersion column is added to multimedia contenta manager.  \n\n\nFeature elements can now be added to versions.  \n\n\nCheck when a set a feature elements is added for the same version and time range.     \n\n\n\n\n\n\nVersion 17.01.24\n\n\nNEW FEATURES\n  \n\n\n\n\nAdd featured elements by brand and version.\n\n\n\n\n\n\nVersion 15.09.11\n\n\nNEW FEATURES\n    \n\n\n\n\nSelector for \nMulti-model/Multi-brand\n.  \n\n\n\n\nVersion 15.07.31\n\n\nNEW FEATURES\n  \n\n\n\n\nGeneral\n category in the combo selector.  \n\n\nCapability to enter one-day vigency content.    \n\n\n\n\nFIXES\n  \n\n\n\n\nEnd of vigency could be set to a date previous the current date.\n\n\n\n\n\n\nVersion 15.06.15\n\n\nDesktop application to add links to multimedia content ordered by brand and model.",
+            "title": "Versions"
+        },
+        {
+            "location": "/Versions/#version-170323",
+            "text": "Version column is added to multimedia contenta manager.    Feature elements can now be added to versions.    Check when a set a feature elements is added for the same version and time range.",
+            "title": "Version 17.03.23"
+        },
+        {
+            "location": "/Versions/#version-170124",
+            "text": "NEW FEATURES      Add featured elements by brand and version.",
+            "title": "Version 17.01.24"
+        },
+        {
+            "location": "/Versions/#version-150911",
+            "text": "NEW FEATURES        Selector for  Multi-model/Multi-brand .",
+            "title": "Version 15.09.11"
+        },
+        {
+            "location": "/Versions/#version-150731",
+            "text": "NEW FEATURES      General  category in the combo selector.    Capability to enter one-day vigency content.       FIXES      End of vigency could be set to a date previous the current date.",
+            "title": "Version 15.07.31"
+        },
+        {
+            "location": "/Versions/#version-150615",
+            "text": "Desktop application to add links to multimedia content ordered by brand and model.",
+            "title": "Version 15.06.15"
+        }
+    ]
+}
