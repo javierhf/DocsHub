@@ -11,7 +11,9 @@ Subscribe this **changelog page**, to receive _what's new_: Click [Subscribe](ht
   
  - HU 6292 Production week parametrisable.  
  - HU 6293 Customer Contract date visible.     
-  
+ - HU 6295 Check a modification of an order against factory.  
+ - HU 6328 Check a modification before sending it to factory.
+ 
 ---  
       
   

@@ -10,6 +10,8 @@ Haz clic en  [Subscribirme](http://eepurl.com/cZkO45) para recibir este **correo
   
  - HU  6292 Semana de producción parametrizable.  
  - HU 6293 Customer Contract date visible.    
+ - HU 6295 Verificar la modificación de un pedido al fabricante.  
+ - HU 6328 Verificar la modificación hecha antes de enviarla.  
   
 ---  
 
