@@ -15,7 +15,7 @@
 
 ![](Images/es-ES_SkilderCloud_LoginScreen.png)      
   
-**SkilderCloud** Se divide en dos _áreas principales_ cada una de las cuales nos ofrece realizar diferentes acciones:   
+**SkilderCloud** Se divide en cada una de las cuales nos ofrece realizar diferentes acciones:   
   
 **Barra superior**      
  > ![](Images/ic_user.png) Conexión/Desconexión del usuario, cambio de contraseña.  
@@ -44,12 +44,7 @@ Las **órdenes** nos muestran el mecánico asigando, el _Número de orden_, la _
 Aquí se mostrará  todas las **órdenes asignadas** a nuestro mecánico así como el **detalle de la orden** seleccionada.
   
 
-![](Images/es-ES_SkilderCloud_MainScreenMechanic.png)    
+![](Images/es-En_SkilderCloud_MainScreenMechanic.png)    
   
-**Piques de tiempo** 
-  
-Podremos iniciar y detener nuestro pique de tiempo en los siguientes iconos:    
-  
- > ![](Images/ic_TimePicker.png)  
- > ![](Images/ic_TimePicker_Stop.png)
+
 
