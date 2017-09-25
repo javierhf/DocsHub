@@ -13,12 +13,7 @@ El rol de **manager** permite acceder al panel de órdenes y comenzar a **gestio
 Para **gestionar las órdenes** podemos:   
   
  - Buscar por número de orden.  
- - Moverlas de una fase a otra (clic y arrastrar).  
- - Acceder al detalle de la orden (clic sobre la orden):    
- > - Conocer las órdenes del mecánico.  
- > - Consultar las órdenes del mecánico.  
- > - Editar la orden.    
-- Crear órdenes nuevas ![](Images/ic_AddOrder.png)  
+   
   
 ## Detalle de la orden    
   

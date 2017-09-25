@@ -4,12 +4,12 @@
   
 **BUSCAR PEDIDOS**  
 
-**Buscar pedidos** permite buscar por los campos de _Nº de pedido_, _Nº de comisión_, _Bastidor_ y _Descripción de modelo_ de nuestros pedidos.  Además, también podremos realizar _Búsquedas avanzadas_ de equipamientos. 
+**Buscar pedidos**   y la segunda Además, también podremos realizar _Búsquedas avanzadas_ de equipamientos. 
   
 Al hacer clic sobre el _número de pedido_, accederemos al detalle de éste.
    
 
-![Buscador](images/es-ES_Ordering_OrdersSearch_main.png)     
+    
  
 Podemos ver el listado de _Pedidos propios_ y de _Pedidos de red_ además de poder filtrar por el _estado del pedido_. 
 
